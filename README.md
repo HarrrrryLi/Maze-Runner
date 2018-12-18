@@ -1,5 +1,6 @@
 # Maze-Runner
-Programmed by Fengru Li, Fei Tao
+Developed by Fengru Li, Fei Tao.
+Enviroment: Visual Studio
 
 ## Problem Intro
 There is a maze(in grid world) which is randomly generated. A maze runner is randomly placed in the maze(not on the wall). There is war-fog in the maze. The runner can only observe cell which is adjust with it. The goal is try to find a path to the destination.
